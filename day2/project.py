@@ -15,4 +15,3 @@ new_total = bill + choose_percentage
 total= round(new_total / people,2)
 print(f"Each person should pay: ${total}")
 
-

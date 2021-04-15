@@ -3,3 +3,5 @@ weight = int(input("enter your weight in kg: "))
 
 
 print(int(weight/( int(height * 2))))
+
+

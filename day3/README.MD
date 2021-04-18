@@ -1,9 +1,9 @@
-# Excercise 1
+# Exercise 1
 ## Odd or Even
 
 Write a program that works out whether if a given number is an odd or even number. 
 
-# Excercise 2
+# Exercise 2
 ## BMI Calculator 2.0
 
 Write a program that interprets the Body Mass Index (BMI) based on a user's weight and height.
@@ -17,14 +17,14 @@ It should tell them the interpretation of their BMI based on the BMI value.
 - Above 35 they are clinically obese.
 
 
-# Excercise 3
+# Exercise 3
 ## Leap Year
 Write a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February. The reason why we have leap years is really fascinating, this video does it more justice:
 
-# Excercise 4
+# Exercise 4
 ## Pizza Order
 
-# Excercise 5
+# Exercise 5
 ## Love Calculator
 
 You are going to write a program that tests the compatibility between two people.

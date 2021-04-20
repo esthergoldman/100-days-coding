@@ -18,7 +18,7 @@ Important you are not allowed to use the max or min functions.
 
 You are going to write a program that calculates the sum of all the even numbers from 1 to 100. Thus, the first even number would be 2 and the last one is 100:
 
-# Exercise 3
+# Exercise 4
 ## FizzBuzz
 
 You are going to write a program that automatically prints the solution to the FizzBuzz game.
@@ -29,4 +29,16 @@ When the number is divisible by 3 then instead of printing the number it should 
 
 `When the number is divisible by 5, then instead of printing the number it should print "Buzz".` 
 
-`And if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it shou
+`And if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz".` 
+
+
+# Project
+## Password Generator
+
+#Eazy Level - Order not randomised:
+#e.g. 4 letter, 2 symbol, 2 number = JduE&!91
+
+
+#Hard Level - Order of characters randomised:
+#e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
+
